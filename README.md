@@ -74,3 +74,4 @@ The steps in which we would rank the teams is given below:
 3. Difference of W/L points method
 
 # Solution Comparison
+![alt text](https://github.com/kevinvkasundra/Discrete-Time-Markov-Chain-to-Rank-NFL-teams/blob/master/Solution%20Comparison.png "Logo Title Text 1")
